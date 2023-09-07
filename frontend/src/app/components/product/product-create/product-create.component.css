@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+     margin:20px 15px 0px 0px; 
+}
+
+.mat-card{
+     width: 50%;
+}
+  .title{ 
+     font-weight: 800;
+     text-transform: uppercase;
+     color: aliceblue;
+       padding: 30px;
+       text-align: center;
+  }

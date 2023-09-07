@@ -1,0 +1,22 @@
+.home .titulo{
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+.home{
+    padding: 30px;
+    background-color: #fff;
+}
+
+.titulo{
+    background-color: #fff;
+    color:#333;
+}
+
+.subtitulo
+{
+    background-color: #fff;
+    color:#333;
+}
